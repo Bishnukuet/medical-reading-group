@@ -14,7 +14,7 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 |---|--|--|----|
 | ... | | | |
 | 2/17/2020 | Team | Overview of projects | |
-| 2/10/2020 | | | |
+| 2/10/2020 | Bishnu SARKER| Protein Function Annotation Using Domain Similarity Graph | |
 | 2/3/2020 | Paul Bertin | Challenges of ML for genomics | |
 | 1/27/2020 | | | |
 | 1/20/2020 | Hao Yu Chen and Itai Magodoro | Prediction of Subclinical Disease from MRI: A CARTaGENE Study Proposal| |
